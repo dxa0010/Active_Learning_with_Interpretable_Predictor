@@ -3,7 +3,7 @@
 ## setup
 
 You have to Download dataset.
-We use 6 datasets here.
+We use 5 datasets here.
 [wine quality](http://archive.ics.uci.edu/ml/datasets/wine+quality),
 [bike](http://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset),
 [CASP](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure),
