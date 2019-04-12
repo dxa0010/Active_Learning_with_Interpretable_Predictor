@@ -4,11 +4,12 @@
 
 You have to Download dataset.
 We use 6 datasets here.
-[wine quality](http://archive.ics.uci.edu/ml/datasets/wine+quality)
-[bike](http://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
-[CASP](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure)
-[housing](http://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
+[wine quality](http://archive.ics.uci.edu/ml/datasets/wine+quality),
+[bike](http://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset),
+[CASP](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure),
+[housing](http://archive.ics.uci.edu/ml/machine-learning-databases/housing/),
 [Freid](https://www.rdocumentation.org/packages/tgp/versions/2.4-14/topics/friedman.1.data)
+
 If you get these files, you put on the "dataset" folder.
 
 ## experiment
