@@ -14,7 +14,7 @@ If you get these files, you put on the "dataset" folder.
 
 ## experiment
 
-you can run the expriment.
+If you done the setup, you can run the expriment.
 
 ```bash
 Rscript exp_AL.R 1
