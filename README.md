@@ -1,5 +1,8 @@
 # predict error reduction
 
+This code is for reproducing the results in
+“Active Learning with Interpretable Predictor”, Y. Taguchi, K. Kameyama, H. Hino, IJCNN2019.
+
 ## setup
 
 You have to Download dataset.
