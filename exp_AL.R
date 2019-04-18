@@ -14,7 +14,7 @@ print(StartTime)
 #number of getting pool
 ir <- 100
 
-datasets <- c("loadCasp.R", "loadHousing.R", "loadFreid.R", "loadredWine.R", "loadwhiteWine.R", "loadBike.R")
+datasets <- c("loadCasp.R", "loadHousing.R", "loadredWine.R", "loadwhiteWine.R", "loadBike.R")
 # seeds <- c( 231 , 145,  345,  678,  890,  462,  290,  690 ,1356 ,1780,  693,  435 ,1035 ,2034, 2670, 1848, 1160, 2760, 5424, 7120)
 # seeds <- c( 231 , 145,  345,  678,  890,  462,  290,  690 ,1356 ,1780)
 # seeds <- c( 231 , 145,  345,  678,  890)

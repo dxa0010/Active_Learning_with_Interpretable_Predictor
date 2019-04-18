@@ -23,9 +23,9 @@ If you done the setup, you can run the expriment.
 Rscript exp_AL.R 1
 ```
 
-c("loadCasp.R", "loadHousing.R", "loadFreid.R", "loadredWine.R", "loadwhiteWine.R", "loadBike.R")
+c("loadCasp.R", "loadHousing.R", "loadredWine.R", "loadwhiteWine.R", "loadBike.R")
 
-The args number represent dataset. The 1 is CASP, 2 is housing, 4 is redwine, 5 is whitewine and 6 is bike. When we run above command the result is expressed in "env" folder.
+The args number represent dataset. The 1 is CASP, 2 is housing, 3 is redwine, 4 is whitewine and 5 is bike. When we run above command the result is expressed in "env" folder.
 You can run the plotmaker.R. Experimental result is in "env" folder
 
 
